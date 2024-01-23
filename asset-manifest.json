@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/louvreweb/static/css/main.f693f55a.css",
-    "main.js": "/louvreweb/static/js/main.60e14354.js",
+    "main.js": "/louvreweb/static/js/main.037c013c.js",
     "static/media/Illustration.png": "/louvreweb/static/media/Illustration.b9e0c5189b743f5e1b11.png",
     "static/media/Illustration3.png": "/louvreweb/static/media/Illustration3.5950c14b6f2c72d0282f.png",
     "static/media/Illustration2.png": "/louvreweb/static/media/Illustration2.115ca228eaf12ccc3c6a.png",
@@ -30,10 +30,10 @@
     "static/media/dungeon.jpg": "/louvreweb/static/media/dungeon.0148d095875521c130aa.jpg",
     "index.html": "/louvreweb/index.html",
     "main.f693f55a.css.map": "/louvreweb/static/css/main.f693f55a.css.map",
-    "main.60e14354.js.map": "/louvreweb/static/js/main.60e14354.js.map"
+    "main.037c013c.js.map": "/louvreweb/static/js/main.037c013c.js.map"
   },
   "entrypoints": [
     "static/css/main.f693f55a.css",
-    "static/js/main.60e14354.js"
+    "static/js/main.037c013c.js"
   ]
 }

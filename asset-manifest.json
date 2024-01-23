@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/louvreweb/static/css/main.f693f55a.css",
+    "main.js": "/louvreweb/static/js/main.60e14354.js",
+    "static/media/Illustration.png": "/louvreweb/static/media/Illustration.b9e0c5189b743f5e1b11.png",
+    "static/media/Illustration3.png": "/louvreweb/static/media/Illustration3.5950c14b6f2c72d0282f.png",
+    "static/media/Illustration2.png": "/louvreweb/static/media/Illustration2.115ca228eaf12ccc3c6a.png",
+    "static/media/Illustration4.png": "/louvreweb/static/media/Illustration4.514cc1ea881432c5772d.png",
+    "static/media/Illustration.jpg": "/louvreweb/static/media/Illustration.2ec7918df0ebbb302236.jpg",
+    "static/media/Illustration5.png": "/louvreweb/static/media/Illustration5.579360495b5d40d258f9.png",
+    "static/media/Illustration5b.png": "/louvreweb/static/media/Illustration5b.2d06d5f51698a854b82d.png",
+    "static/media/Illustration5c.png": "/louvreweb/static/media/Illustration5c.a466e51f6a6cc9f0d206.png",
+    "static/media/Illustration5d.png": "/louvreweb/static/media/Illustration5d.ccd07a0af1ff5897a90e.png",
+    "static/media/europeana-YIfFVwDcgu8-unsplash.jpg": "/louvreweb/static/media/europeana-YIfFVwDcgu8-unsplash.71d6264041203a551892.jpg",
+    "static/media/Illustration5a.png": "/louvreweb/static/media/Illustration5a.2553357239de9a191544.png",
+    "static/media/Illustration5e.png": "/louvreweb/static/media/Illustration5e.125c0141a97931473709.png",
+    "static/media/Illustration13.png": "/louvreweb/static/media/Illustration13.73d4ab148906da40fba9.png",
+    "static/media/Illustration3.jpg": "/louvreweb/static/media/Illustration3.c85e6826d0c34f24e1e5.jpg",
+    "static/media/painting.jpg": "/louvreweb/static/media/painting.a6df596bf355a44b4ea4.jpg",
+    "static/media/layer-base.png": "/louvreweb/static/media/layer-base.2fa5e0698bd8c39d9367.png",
+    "static/media/Illustration11.png": "/louvreweb/static/media/Illustration11.f13633aba50706452ca3.png",
+    "static/media/Illustration9.png": "/louvreweb/static/media/Illustration9.74ac3280807870b2a78f.png",
+    "static/media/layer-front.png": "/louvreweb/static/media/layer-front.df0d9ca18937e07f91a5.png",
+    "static/media/layer-middle.png": "/louvreweb/static/media/layer-middle.4e89d11a7015bd1a4216.png",
+    "static/media/Illustration8.png": "/louvreweb/static/media/Illustration8.2b986a1ca01504f35298.png",
+    "static/media/Illustration10.png": "/louvreweb/static/media/Illustration10.ad4145206a07d4c6bf48.png",
+    "static/media/ground.png": "/louvreweb/static/media/ground.96eb037a7ddd346df210.png",
+    "static/media/Illustration7.png": "/louvreweb/static/media/Illustration7.ac783074885c2880b6d4.png",
+    "static/media/Illustration12.png": "/louvreweb/static/media/Illustration12.0bcea0140ed44a4ef630.png",
+    "static/media/dungeon.jpg": "/louvreweb/static/media/dungeon.0148d095875521c130aa.jpg",
+    "index.html": "/louvreweb/index.html",
+    "main.f693f55a.css.map": "/louvreweb/static/css/main.f693f55a.css.map",
+    "main.60e14354.js.map": "/louvreweb/static/js/main.60e14354.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f693f55a.css",
+    "static/js/main.60e14354.js"
+  ]
+}
